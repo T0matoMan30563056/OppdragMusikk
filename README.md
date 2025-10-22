@@ -35,4 +35,15 @@ def meny(); er brukt for å håndtere valg av commandor også har jeg def addson
 
 
 
+Step 5 - Forbedre menyet og coden
+
+<img width="842" height="797" alt="image" src="https://github.com/user-attachments/assets/401f0a8f-f4b5-4caf-b894-36ba51b3e1ee" />
+<img width="481" height="359" alt="image" src="https://github.com/user-attachments/assets/c6e165a5-6f11-40a4-901b-7e58866b8672" />
+
+fixa ting med hvordan manyet ser ut, princippet er det samme, men nå so er det et bedre meny
+oh jeg satt alt i en while true, så at du kan lage flere forandringer sammtidlig, også lå jeg til en knapp som avslutter den
+
+Step 6 - adda knapper for å delete all info / starte på nytt QoL update
+
+
 
