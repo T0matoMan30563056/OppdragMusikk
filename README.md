@@ -25,4 +25,14 @@ jeg skal lage en Sanger tabell med en refrence inni Artister
 
 etter jeg lagde denne tabellen var jeg ferdig med dette og jeg må få till input
 
-Step 4 - Input into Sanger
+Step 4 - Input And Meny
+
+her skal jeg lage en meny hvor du kan selecte hva du skal gjøre, og at jeg skjer
+
+<img width="1109" height="972" alt="image" src="https://github.com/user-attachments/assets/314d1049-0300-4132-9cba-4f291fe9b5ef" />
+
+def meny(); er brukt for å håndtere valg av commandor også har jeg def addsong(); og addart(); som logiken bak å lage en ny sang og en ny artist innafor de to tabellene
+
+
+
+
