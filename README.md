@@ -17,4 +17,12 @@ inni her har jeg host, som er ip adressen til pi-en, user, som en navn på bruke
 step 3 - lage tabell innafor databasen
 
 <img width="700" height="536" alt="image" src="https://github.com/user-attachments/assets/f1ccdf1b-d047-4e5d-ae42-27924ae8da7a" />
-"mycursor.execute"
+
+"mycursor.execute" er brukt for å gjøre kommandoer innafor python, med dette lagde jeg denne Artister tabelen, denne trenger jeg fordi
+jeg skal lage en Sanger tabell med en refrence inni Artister
+
+<img width="732" height="286" alt="image" src="https://github.com/user-attachments/assets/850554d1-3989-4702-85c2-ed4e81e8544a" />
+
+etter jeg lagde denne tabellen var jeg ferdig med dette og jeg må få till input
+
+Step 4 - Input into Sanger
