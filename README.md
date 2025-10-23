@@ -45,5 +45,6 @@ oh jeg satt alt i en while true, så at du kan lage flere forandringer sammtidli
 
 Step 6 - adda knapper for å delete all info / starte på nytt QoL update
 
+adda et par knapper for QoL, og adda flere funkjsoner
 
 
