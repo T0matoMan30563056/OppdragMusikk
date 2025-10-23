@@ -45,6 +45,12 @@ oh jeg satt alt i en while true, så at du kan lage flere forandringer sammtidli
 
 Step 6 - adda knapper for å delete all info / starte på nytt QoL update
 
-adda et par knapper for QoL, og adda flere funkjsoner
+adda et par knapper for QoL, og adda flere funkjsoner, oppdaterte menyet for å hondtere flere valg
 
+<img width="591" height="779" alt="image" src="https://github.com/user-attachments/assets/3290483d-0f93-4cf8-9abf-9762f01b4341" />
+
+og lagde et par nye funksjoner
+
+<img width="734" height="992" alt="image" src="https://github.com/user-attachments/assets/44787148-6152-41c3-a05b-0f414f80af18" />
+<img width="860" height="919" alt="image" src="https://github.com/user-attachments/assets/3e4767ea-7da6-4625-bab7-0ca2cdffad94" />
 
